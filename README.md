@@ -5,19 +5,19 @@
 
 </h3>
 
-<h3 align="left">I am experienced, open to development, passionate and attentive in the field of Full Stack Web Developer. I am a successful team player in the projects I work on and I can manage the project alone, taking responsibility when necessary. I am currently looking for a working environment that will guide me and my projects and enable me to develop with good education.</h1>
+<h3 align="justify">I am experienced, open to development, passionate and attentive in the field of Full Stack Web Developer. I am a successful team player in the projects I work on and I can manage the project alone, taking responsibility when necessary. I am currently looking for a working environment that will guide me and my projects and enable me to develop with good education.</h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
-<h3 align="left">I am a software developer who follows my dreams.</h4>
+<h3 align="justify">I am a software developer who follows my dreams.</h4>
 
-<h3 align="left">There is a production that constantly questions, is not afraid of constantly improving itself and trying something new. I like to learn new things. I have strong communication skills.</h3>
+<h3 align="justify">There is a production that constantly questions, is not afraid of constantly improving itself and trying something new. I like to learn new things. I have strong communication skills.</h3>
 
 <br><br><br><br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://skillicons.dev">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?&theme=light&i=visualstudio,vscode,phpstorm,laravel,php,angular,dotnet,cs,html,css,bootstrap,github,postgres,mysql,mongo,redis,docker,rabbitmq,postman"/>
   </a>
 </p>
